@@ -1,9 +1,8 @@
+ Given a set of daily taxi trips ( https://drive.google.com/file/d/1fpH3_g3V_aJdjyho52EraGPrEfI1GnMq/view?usp=share_link ), produce this following summary:
 
-
-# Given a set of daily taxi trips ( https://drive.google.com/file/d/1fpH3_g3V_aJdjyho52EraGPrEfI1GnMq/view?usp=share_link ), produce this following summary:
-# How many distinct car_type there are in the csv
-# How many distinct "geo" or geography there are in the dataset
-# For every day in 2017 i.e from 2017-01-10 to 2017-12-31 Count the number of trips taken by each (car_type, geo) combination.  If there isn't a trip taken by an existing (car_type, geo) combination during a particular day, show 0. 
+How many distinct car_type there are in the csv
+How many distinct "geo" or geography there are in the dataset
+For every day in 2017 i.e from 2017-01-10 to 2017-12-31 Count the number of trips taken by each (car_type, geo) combination.  If there isn't a trip taken by an existing (car_type, geo) combination during a particular day, show 0. 
 
 
 Solutions:
