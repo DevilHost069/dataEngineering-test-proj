@@ -99,10 +99,10 @@ def sqlQuery_out(files_path,car_type_resultFileName,geography_resultFileName,eac
         exit(1)
 
 def main():
-    hostname = '10.100.1.51'
+    hostname = '10.10.1.10'
     database = 'datalake'
     username = 'bhuone'
-    password = 'eXCuKJDH9uB*A+U2'
+    password = 'eX8787bhhgVYGYgCuKJDH9uB*A+U2'
     port = 5432
     conn = None
     cur = None
