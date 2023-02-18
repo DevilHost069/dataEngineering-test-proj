@@ -13,6 +13,7 @@ Prerequisites required
 2. Python 3.x installed
 3. Python library installed: pip3, pandas, psycopg2, sqlalchemy
 4. Download the dataset from https://drive.google.com/file/d/1fpH3_g3V_aJdjyho52EraGPrEfI1GnMq/view?usp=share_link
+
 Use your own DB Host, Username,DB name , port
 
 To run the script:
