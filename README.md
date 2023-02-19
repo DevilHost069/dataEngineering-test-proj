@@ -13,10 +13,12 @@ Prerequisites required
 2. Python 3.x installed
 3. Python library installed: pip3, pandas, psycopg2, sqlalchemy
 4. Download the dataset from https://drive.google.com/file/d/1fpH3_g3V_aJdjyho52EraGPrEfI1GnMq/view?usp=share_link
+5. Create DB (eg. datalake)
 
-Use your own DB Host, Username,DB name , port
+Modify the script as per your own Postgres DB Host, Username,password, DB name, port
 
 To run the script:
      python3 project-dataEngineering.py
+
 
 After running the script you will get 3 csv output file as per the Questions above.
